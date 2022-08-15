@@ -18,7 +18,7 @@ Link para o vídeo de apresentação: []()
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: JavaScript, Python, HTML, CSS <br>
+**Linguagem**: JavaScript, HTML, CSS <br>
 **Framework**: React <br>
 
 ## Instalação 
@@ -27,9 +27,9 @@ Para clonar o projeto digite:
 
     git clone https://github.com/projeto-de-algoritmos/Grafos2_Conexoes_Criticas
 
-Depois rode o comando para executar o docker da aplicação:
+Depois rode o comando para executar a aplicação:
 
-    docker-compose up
+    npm start
 
 Por fim, acesse a porta do frontend e aproveite:
 
