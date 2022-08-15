@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  height: auto;
+  padding: 30px 0;
+  background: #009900;
+}
+
+.header-h1 {
+  font-size: 52px;
+  color: #ffffff;
+}
+
+.header-p {
+  width: 955px;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 auto;
+  padding-top: 20px;
+  color: #ffffff;
+}
