@@ -6,7 +6,7 @@ export default function Header() {
     <header className="header">
       <h1 className='header-h1'>Number Guessing</h1>
       <p className='header-p'>       
-        Pense em um número de 1 a 100. Vamos adivinhar o seu número em 7 voltas!
+        Pense em um número de 1 a 1000. Vamos adivinhar o seu número em 10 chances!
       </p>
   </header>
   );
