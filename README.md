@@ -1,28 +1,32 @@
-# Number Guessing 
+# Number Guessing
 
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 15/0005563 |  André Lucas Ferreira Lemos de Souza |
-| 17/0039803 |  Lucas Medeiros |
 
-## Sobre 
+| Matrícula  | Aluno                               |
+| ---------- | ----------------------------------- |
+| 15/0005563 | André Lucas Ferreira Lemos de Souza |
+| 17/0039803 | Lucas Medeiros                      |
+
+## Sobre
+
 O algoritmo usado para fazer este jogo, usa uma abordagem de dividir e conquistar, dividindo pela metade as suposições possíveis.
 Consiste em uma aplicação que recebe uma entrada de número do usuário. Em seguida, o computador tentará adivinhar qual número era, com base nas dicas dadas pelo usuário.
 
-Link para o vídeo de apresentação: []()
+Link para o vídeo de apresentação: [Number Guessing](./apresentacao/apresentacao-number-guessing.mp4)
 
 ## Screenshots
 
-[Screenshot 1](apresentacao/Screenshot%20from%202022-08-15%2021-01-39.png)
+![Screenshot 1](./apresentacao/step1.png)
+![Screenshot 1](./apresentacao/step2.png)
 
-## Instalação 
+## Instalação
+
 **Linguagem**: JavaScript, HTML, CSS <br>
 **Framework**: React <br>
 
-## Instalação 
+## Instalação
 
 Para clonar o projeto digite:
 
@@ -36,13 +40,10 @@ Por fim, acesse a porta do frontend e aproveite:
 
     http://localhost:3000/
 
-## Uso 
+## Uso
 
 1. Abra o navegador web de sua escolha e digite a URL do projeto;<br>
 
-## Outros 
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
