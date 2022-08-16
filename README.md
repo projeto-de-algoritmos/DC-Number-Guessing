@@ -15,7 +15,8 @@ Consiste em uma aplicação que recebe uma entrada de número do usuário. Em se
 Link para o vídeo de apresentação: []()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+[Screenshot 1](apresentacao/Screenshot%20from%202022-08-15%2021-01-39.png)
 
 ## Instalação 
 **Linguagem**: JavaScript, HTML, CSS <br>
